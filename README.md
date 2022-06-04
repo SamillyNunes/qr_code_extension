@@ -3,7 +3,7 @@
 This is a Google Chrome extension developed with Flutter to generate a QR Code given a text. Besides that, the user can select a color for the background and another one for the QR Code.
 
 ### Screenshot
-- Home:
+- Home: ![alt text](https://github.com/SamillyNunes/qr_code_extension/blob/main/assets/images/readme/home.jpg)
 
 
 ### References 
